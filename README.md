@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application you can learn here regarding image assets and model class just make changes and do whatever you feel to learn.
 
 A few resources to get you started if this is your first Flutter project:
 
